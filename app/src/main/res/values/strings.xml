@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CDF Wallet</string>
+    <string name="tagline">Portefeuille Numérique Franc Congolais</string>
+    <string name="balance_cdf">Solde CDF</string>
+    <string name="balance_usd">Solde USD</string>
+    <string name="send">Envoyer</string>
+    <string name="receive">Recevoir</string>
+    <string name="exchange">Convertir</string>
+    <string name="pay_bills">Factures</string>
+    <string name="savings">Épargne &amp; Tontine</string>
+    <string name="recent_transactions">Transactions Récentes</string>
+    <string name="mobile_money">Mobile Money</string>
+    <string name="exchange_rate">Taux du Jour</string>
+</resources>

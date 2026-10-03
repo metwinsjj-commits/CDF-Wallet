@@ -1,0 +1,6 @@
+{
+  "name": "CDF Wallet",
+  "description": "Portefeuille numérique sécurisé en Francs Congolais (CDF) et devises (USD) : transferts Mobile Money, change de devises, forfaits, factures et épargne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
